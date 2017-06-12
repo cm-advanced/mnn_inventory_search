@@ -1,0 +1,14 @@
+dependencies[] = "views"
+description = "Searches reservable and non-reservable items"
+features[ctools][] = "views:views_default:3.0"
+features[views_view][] = "mnn_inventory_seach"
+name = "MNN Inventory Search"
+
+
+package = "MNN Community Media Advanced"
+version = "7.x-1.x"
+core = "7.x"
+project = "mnn_inventory_search"
+project_status_url = https://github.com/cm-advanced/mnn_inventory_search
+
+
